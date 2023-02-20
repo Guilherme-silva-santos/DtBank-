@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "venda",
+      "price": 1400,
+      "created_at": "2023-01-31T13:21:28.589Z"
+    },
+    {
+      "id": "2",
+      "description": "Comida",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 100,
+      "created_at": "2023-01-31T13:48:28.589Z"
+    },
+    {
+      "id": "3",
+      "description": "Dropshipping",
+      "type": "income",
+      "category": "Trabalho extra",
+      "price": 5000,
+      "created_at": "2023-01-31T13:48:28.589Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "created_at": "2023-02-03T18:32:06.475Z",
+      "id": "wfxiUy0"
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "created_at": "2023-02-03T18:35:34.390Z",
+      "id": "449Li1I"
+    },
+    {
+      "description": "açai",
+      "price": 19,
+      "category": "Alimentação",
+      "type": "outcome",
+      "created_at": "2023-02-03T19:03:54.185Z",
+      "id": "NkeA-Ux"
+    }
+  ]
+}

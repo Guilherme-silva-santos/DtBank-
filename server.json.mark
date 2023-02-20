@@ -1,0 +1,21 @@
+{
+    "transactions":[
+        {
+            "id": "1",
+            "description": "Desenvolvimento de Site",
+            "type": "income",
+            "category": "venda",
+            "price": 1400,
+            "created_at": "2023-01-31T13:21:28.589Z"
+        }
+    ]
+}
+
+new Date().toISOString() coloque isso no console e retornara um tipo de data que o json entende '2023-01-31T13:21:28.589Z"
+
+ para cada propriedade deste objeto é uma entidade da minha aplicação como se fosse uma tabela do banco de dados 
+ neste caso uma tabela de transações
+ npx json-server server.json -w -d 500
+ npx json-server server.json comando para rodar o json server.json
+  w- para que o json seja monitorado sempre
+  -d 500 o delay para quando uma alteração for feita 
